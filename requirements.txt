@@ -1,0 +1,13 @@
+PyInquirer==1.0.3
+prompt_toolkit==1.0.14
+requests==2.27
+pytest==7.1.1
+fastapi==0.75.2
+pydantic==1.9.0
+uvloop>=0.14.0
+uvicorn==0.17.6
+ptyprocess
+pandas
+six
+pyfiglet
+termcolor

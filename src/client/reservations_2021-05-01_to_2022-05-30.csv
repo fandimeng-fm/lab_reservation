@@ -1,0 +1,10 @@
+reservation_id,facility,recurring_number,reservation_date,resource,client_id,start_time,end_time,status
+3,facility1,0,2022-05-25,crusher,3,11.0,17.5,on
+5,facility1,0,2022-05-10,workshop,Good Client,9.0,9.5,on
+6,facility1,0,2022-05-10,workshop,Good Client,9.0,9.5,on
+7,facility1,0,2022-05-10,harvester,Bad Client,9.0,9.5,on
+8,facility1,1,2022-05-11,workshop,Good Client,9.0,9.5,on
+9,facility1,0,2022-05-11,extruder,Bad Client,9.0,9.5,on
+10,facility1,0,2022-05-11,extruder,Bad Client,9.0,9.5,on
+11,facility1,0,2022-05-11,extruder,Bad Client,10.0,9.5,on
+12,facility1,2,2022-05-12,workshop,Good Client,9.0,9.5,on
